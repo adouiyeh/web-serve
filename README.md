@@ -1,4 +1,6 @@
  # web-serve
+ 
+Video about websocket : https://www.youtube.com/watch?v=JRTLSxGf_6w
 
 1 - RFC 7230 : https://datatracker.ietf.org/doc/html/rfc7230
 
