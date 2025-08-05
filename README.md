@@ -1,5 +1,5 @@
  # web-serve
- 
+ USE Epoll not poll() and select() bc its limited and slow and have many problem like if i send 2000 request ghadi segfaulta!!!
 Video about websocket : https://www.youtube.com/watch?v=JRTLSxGf_6w
 
 1 - RFC 7230 : https://datatracker.ietf.org/doc/html/rfc7230
